@@ -1,0 +1,88 @@
+plugins:
+  - jekyll-sitemap
+
+
+speakers:
+  - name: Aaron Patterson
+    description: Ruby & Rails core team member. Aaron's the most <a href="https://twitter.com/tenderlove" target="_blank">@tenderlove</a>-ing person you'll ever meet. He works at Github.
+    image: aaron.png
+
+  - name: Akira Matsuda
+    description: CRuby core team. <a href="https://twitter.com/amatsuda" target="_blank">@amatsuda</a>'s also the founder of Asakusa.rb, one of the most active regional Rubyist group in Tokyo, Japan.
+    image: akira.png
+
+  - name: Aja Hammerly
+    description: An awesome dinosaur that codes in Ruby and does DevOps. <a href="https://twitter.com/the_thagomizer" target="_blank">@the_thagomizer</a>'s a Google Cloud Advocate @ Google.
+    image: aja.png
+
+  - name: Tim Riley
+    description: <a href="https://twitter.com/timriley" target="_blank">@timriley</a>'s a director & developer at @icelab. He's also one of dry-rb's core developer.
+    image: tim.png
+
+  - name: Saron Yitbarek
+    description: <a href="https://twitter.com/saronyitbarek" target="_blank">@saronyitbarek</a>'s the founder of CodeNewbie.org, a really supportive community of people learning to code. They produce some cool podcasts weekly. She also co-hosts @rubybookclub.
+    image: saron.jpg
+
+  - name: Tan Jun Qi
+    description: <a href="https://github.com/tjjjwxzq" target="_blank">Jun Qi</a>'s just graduating from Singapore University of Technology Design but don't let age fool you, she has a very unique way of surprising you with her ideas. She enjoys teaching and coaches at the Techladies bootcamps.
+    image: junqi.jpg
+
+  - name: Michael Cheng
+    description: Being a developer for more than 10 years <a href="https://github.com/miccheng" target="_blank">Michael</a> has seen it all. He runs Engineers.SG and has been a huge contributor to the tech ecosystem in Singapore.
+    image: michael.jpg
+
+  - name: Dilum Navanjana
+    description: <a href="https://github.com/dilumn" target="_blank">Dilum</a> a core team member of <a href="https://github.com/celluloid" target="_blank">Celluloid</a> and works as a Senior Software Engineer in Sri Lanka.
+    image: dilum.jpg
+
+  - name: Vladimir Dementyev
+    description: A mathematician that found his happiness in programming Ruby and Erlang, <a href="https://github.com/palkan" target="_blank">Vladimir</a> enjoys contributing to open source, teaching Ruby and Rails and being an <a href="https://evilmartians.com/" target="_blank">Evil Martian</a>.
+    image: vlad.jpg
+
+  - name: Alex Topalov
+    description: Ruby engineer and high load project consultant since 2009. <a href="https://github.com/sharkzp" target="_blank">Alex</a>'s a believer of DDD and good architecture.
+    image: alex.jpg
+
+  - name: Elisha Tan
+    description: Founder of TechLadies, <a href="https://twitter.com/elishatan">Elisha</a> picked up Ruby with help from the community and now helps women to get into the industry with TechLadies.
+    image: elisha.jpg
+
+  - name: Kyle Dolezal
+    description: Having a background as a researcher, <a href="http://github.com/KyleDolezal" target="_blank">Kyle</a> loved teaching himself computer programming skills so much that I decided to write code full-time. He's currently a backend developer at Piktochart.
+    image: kyle.jpg
+
+  - name: Jinny Wong
+    description: Engineering Manager at Carousell, <a href="http://github.com/shujin" target="_blank">Jinny</a> provides strategic and technical guidance to the engineering team. When she is not serious at work, Jinny owns two cats with her husband. She also enjoys music, photography and running.
+    image: jinny.png
+
+  - name: Sylvia Choong & Jany Mai
+    description: <a href="https://github.com/mymai91" target="_blank">Jany</a> is from Vietnam, she holds a Bachelor in Information Technology and was an active organizer in Vietnamese Ruby community. <a href="https://github.com/SylviaChoong" target="_blank">Sylvia</a> is a local Malaysian, she holds a Multimedia Design Diploma and a MCP status from Microsoft. Both are experienced Ruby on Rails developer working in a FinTech company, Loanstreet Sdn. Bhd. They aspire to make the web a better place.
+    image: sylvia_jany.jpg
+
+  - name: Daniel Baark
+    description: <a href="https://github.com/baarkerlounger" target="_blank">A developer</a> at ZappiStore, Daniel automates market research with a heavy focus on data analysis.
+    image: daniel.jpg
+
+  - name: Gabrielle Ong Hui Min
+    description: <a href="https://twitter.com/hellogabbo" target="_blank">Gabrielle</a> is a junior software engineer at TradeGecko. She took a leap of faith to code full-time before university and has loved it ever since. She hopes to inspire others to challenge the norm and believe in their dreams.
+    image: gabrielle.jpg
+
+  - name: Kevin Litchfield
+    description: <a href="http://kevinlitchfield.com/" target="_blank">Kevin</a> is a software engineer living in New York City. The Internet excites him most as a meeting place for likeminded people, as a platform for teaching and learning, and as an infinite rainbow of tantalizing food.
+    image: kevin.png
+
+  - name: Ilake Chang
+    description: Senior Rails developer at 5xruby & Shopmatic, <a href="https://mylake.github.io/" target="_blank">Ilake</a> is also a Rails contributor.
+    image: ilake.jpg
+
+  - name: Nick Marden
+    description: <a href="https://github.com/nickmarden">Nick</a> has been working at Internet startups since the early 1990's, including a long stretch in Silicon Valley and San Francisco during and after the dot-com boom. He loves using Ruby, Linux, and all sorts of other tools to tackle hard problems. He is the founder of Rapid River Software, a US- and Malaysia-based software development consultancy.
+    image: nick.jpg
+
+  - name: Anton Lvov
+    description: <a href="https://github.com/denied404">Anton</a> is an automation enthusiast who got through bloody enterprise and still alive. Armchair guitar player, father and son.
+    image: anton.png
+
+  - name: Gooi Liang Zheng
+    description: Java and Python developer by day, Ruby programmer by night. <a href="http://github.com/samgooi4189">Gooi</a> likes to volunteer to cultivate healthier tech community and growing local talents.
+    image: gooi.jpg

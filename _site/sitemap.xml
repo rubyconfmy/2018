@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/slack-invite/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/call-for-proposals/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/slack_invite/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/code-of-conduct/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/Sponsorship%20Deck.pdf</loc>
+<lastmod>2018-04-04T15:03:16+08:00</lastmod>
+</url>
+</urlset>
