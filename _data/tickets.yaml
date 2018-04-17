@@ -1,0 +1,22 @@
+# status: sold-out coming-soon
+# space separated
+
+- name: Student
+  price: 150
+  url: '#'
+  status: available
+
+- name: Super Early Bird
+  price: 200
+  url: '#'
+  status: available
+
+- name: Early Bird
+  price: 250
+  url: '#'
+  status: coming-soon
+
+- name: Normal
+  price: 300
+  url: '#'
+  status: sold-out

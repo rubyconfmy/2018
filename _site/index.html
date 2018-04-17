@@ -51,6 +51,7 @@
   <link href="/assets/css/venobox.css" rel="stylesheet" type="text/css"/>
   <link href="/assets/css/style.20170928.css" rel="stylesheet"/>
   <link href="/assets/css/queries.css" rel="stylesheet"/>
+  <link href="/assets/css/ticket.css" rel="stylesheet"/>
 
   <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -180,37 +181,57 @@ jQuery(function(){
   </div>
 </section>
 
-<section class="price text-center section-padding" id="price">
+<section class="tickets text-center section-padding" id="ticket">
   <div class="container wow animated fadeInLeft animated" data-wow-duration="1s" data-wow-delay="0.5s">
-  <div class="row">
-    <div class="col-lg-8 align-center price">
-      <h1 class="arrow">Ticket Price</h1>
-      <hr>
-      <!-- card -->
-
-      <div class="row">
-        <div class="col-md-3 col-sm-12">
-          <h3>Student</h3>
-          <a href="#">RM 150</a>
-        </div>
-
-        <div class="col-md-3 col-sm-12">
-          <h3>Super Early Bird</h3>
-          <a href="#">RM 200</a>
-        </div>
-
-        <div class="col-md-3 col-sm-12">
-          <h3>Early Bird</h3>
-          <a href="#">RM 250</a>
-        </div>
-
-        <div class="col-md-3 col-sm-12">
-          <h3>Normal</h3>
-          <a href="#">RM 300</a>
-        </div>
+    <div class="row">
+      <div class="col-sm-12 align-center">
+        <h1 class="arrow">Ticket Price</h1>
+        <hr>
       </div>
     </div>
-  </div>
+    <div class="row tickets-row">
+      
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="ticket available">
+            <h1>RM <span>150</span></h1>
+            <h2>Student</h2>
+            <a href="#" class="available">BUY NOW</a>
+            <a class="coming-soon">COMING SOON</a>
+            <a class="sold-out">SOLD OUT</a>
+          </div>
+        </div>
+      
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="ticket available">
+            <h1>RM <span>200</span></h1>
+            <h2>Super Early Bird</h2>
+            <a href="#" class="available">BUY NOW</a>
+            <a class="coming-soon">COMING SOON</a>
+            <a class="sold-out">SOLD OUT</a>
+          </div>
+        </div>
+      
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="ticket coming-soon">
+            <h1>RM <span>250</span></h1>
+            <h2>Early Bird</h2>
+            <a href="#" class="available">BUY NOW</a>
+            <a class="coming-soon">COMING SOON</a>
+            <a class="sold-out">SOLD OUT</a>
+          </div>
+        </div>
+      
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="ticket sold-out">
+            <h1>RM <span>300</span></h1>
+            <h2>Normal</h2>
+            <a href="#" class="available">BUY NOW</a>
+            <a class="coming-soon">COMING SOON</a>
+            <a class="sold-out">SOLD OUT</a>
+          </div>
+        </div>
+      
+    </div>
   </div>
 </section>
 
