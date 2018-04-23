@@ -3,20 +3,18 @@
 
 - name: Student
   price: 150
-  url: '#'
+  url: 'http://tickets.rubyconf.my/'
   status: available
+  valid: student card required
 
-- name: Super Early Bird
+- name: Early Bird
   price: 200
   url: '#'
   status: available
-
-- name: Early Bird
-  price: 250
-  url: '#'
-  status: coming-soon
+  valid: valid until 31 August 2018
 
 - name: Normal
   price: 300
-  url: '#'
-  status: sold-out
+  url: 'http://tickets.rubyconf.my/'
+  status: coming-soon
+  valid: coming soon

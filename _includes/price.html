@@ -12,6 +12,7 @@
           <div class="ticket {{ ticket.status }}">
             <h1>RM <span>{{ ticket.price }}</span></h1>
             <h2>{{ ticket.name }}</h2>
+            <p class="valid">{{ ticket.valid }}</p>
             <a href="{{ ticket.url }}" class="available">BUY NOW</a>
             <a class="coming-soon">COMING SOON</a>
             <a class="sold-out">SOLD OUT</a>
