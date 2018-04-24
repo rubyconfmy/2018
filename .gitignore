@@ -1,1 +1,7 @@
 .DS_Store
+
+# Please ignore this if you pushing to production
+Gemfile
+Gemfile.lock
+Rakefile
+static.json
