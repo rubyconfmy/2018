@@ -9,12 +9,12 @@
 
 - name: Early Bird
   price: 200
-  url: '#'
+  url: 'http://tickets.rubyconf.my/'
   status: available
   valid: valid until 31 August 2018
 
 - name: Normal
   price: 300
-  url: 'http://tickets.rubyconf.my/'
+  url: 
   status: coming-soon
   valid: coming soon
