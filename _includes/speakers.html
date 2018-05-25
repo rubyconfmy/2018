@@ -13,5 +13,31 @@
       <a class="registration-link register-btn btn-effect wow animated fadeIn" data-wow-duration="1s" data-wow-delay="2.5s" data-scroll href="https://rubyconfmy18.typeform.com/to/RY6pVl" target="blank">Get in touch</a>
       </div>
     </div>
+    <div class="row mt-10rem">
+      <div class="col-sm-12 align-center">
+          <h1 class="arrow">Speakers</h1>
+          <hr>
+      </div>
+      <div class="speakers-wrap">
+        <ul class="slides">
+          <li>
+            {% for speaker in site.data.speakers %}
+              {% assign delay = 0.2 | times: forloop.index | plus: 0.3 %}
+              <div class="col-md-3 col-sm-3 wow animated fadeInUp speaker" data-wow-duration="1s" data-wow-delay="{{ delay }}s">
+                <div class="overlay-effect effects clearfix">
+                  <div class="img">
+                    <img src="/assets/img/speakers/{{ speaker.image }}" alt="Portfolio Item" width="370" height="255">
+                  </div>
+                </div>
+                <h2>{{ speaker.name }}</h2>
+                <div class="description-wrap">
+                  <p>{{ speaker.description }}</p>
+                </div>
+              </div>
+            {% endfor %}
+          </li>
+        </ul>
+      </div>
+    </div> <!--Row Ends Here-->
   </div>
 </section>

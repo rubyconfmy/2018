@@ -1,0 +1,18 @@
+# status: sold-out coming-soon
+# space separated
+
+- name:  Ajey Gore
+  image: ajey-gore.jpg
+  description: Keynote Speaker <br /> Group CTO of Go-Jek
+
+- name:  Konstantin Haase
+  image: haase.jpg
+  description: Keynote Speaker <br /> CTO & Co-Founder Travis CI
+
+- name:  Michael Kelly
+  image: michael-kelly.jpg
+  description: Senior Software Engineer, StackShare
+
+- name: Dilum BC
+  image: dilum-bc.jpg
+  description: Technical Lead, Bbytes.sg

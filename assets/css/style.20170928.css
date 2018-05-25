@@ -1153,7 +1153,7 @@ figure.vimeo-video{
 
 }
 .speakers .description-wrap {
-  height: 190px;
+  height: 50px;
   overflow: hidden;
 }
 
@@ -4076,5 +4076,9 @@ ul.footer-links li:last-child::after {
 
   margin-top: 30px;
 
+}
+
+.mt-10rem {
+  margin-top: 10rem;
 }
 
