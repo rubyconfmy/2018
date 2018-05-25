@@ -5,3 +5,4 @@ Gemfile
 Gemfile.lock
 Rakefile
 static.json
+_site
