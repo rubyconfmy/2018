@@ -9,6 +9,10 @@
   image: haase.jpg
   description: Keynote Speaker <br /> CEO of Travis CI
 
+- name: Aaron Patterson
+  image: aaron-patterson.jpg
+  description: Keynote Speaker <br /> Github
+
 - name:  Michael Kelly
   image: michael-kelly.jpg
   description: Senior Software Engineer, StackShare
@@ -16,10 +20,6 @@
 - name: Dilum BC
   image: dilum-bc.jpg
   description: Technical Lead, Bbytes.sg
-
-- name: Aaron Patterson
-  image: aaron-patterson.jpg
-  description: Keynote Speaker <br /> Github
 
 - name: Allison McMillan
   image: allison-millan.jpg
