@@ -16,3 +16,19 @@
 - name: Dilum BC
   image: dilum-bc.jpg
   description: Technical Lead, Bbytes.sg
+
+- name: Aaron Patterson
+  image: aaron-patterson.jpg
+  description: Keynote Speaker <br /> Github
+
+- name: Allison McMillan
+  image: allison-millan.jpg
+  description: Github
+
+- name: Noah Gibbs
+  image: noah-gibbs.png
+  description: AppFolio
+
+- name: Prasun Anand
+  image: prasun.jpg
+  description:  Ruby Science Foundation
