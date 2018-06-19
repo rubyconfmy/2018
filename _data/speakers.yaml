@@ -32,3 +32,8 @@
 - name: Prasun Anand
   image: prasun.jpg
   description:  Ruby Science Foundation
+
+- name: Anton Davydov
+  image: anton.jpg
+  description:  Software Engineer , Hippo & Hanami Core Developer
+
