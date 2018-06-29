@@ -1153,7 +1153,7 @@ figure.vimeo-video{
 
 }
 .speakers .description-wrap {
-  height: 50px;
+  height: 70px;
   overflow: hidden;
 }
 
@@ -1164,11 +1164,11 @@ figure.vimeo-video{
 
 .speakers a {
   cursor: pointer;
-  /*color: #fb1b35;*/
+  color: #718cf3;
 }
 
 .speakers .speaker {
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 
 ul.social-buttons {
