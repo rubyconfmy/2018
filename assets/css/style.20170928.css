@@ -4081,3 +4081,7 @@ ul.footer-links li:last-child::after {
 .mt-10rem {
   margin-top: 10rem;
 }
+
+.text-white {
+  color: #fff !important;
+}
