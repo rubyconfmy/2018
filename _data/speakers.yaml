@@ -52,3 +52,11 @@
 - name: Iqbal Farabi
   image: farabi.jpg
   description: System Engineer at Go-Jek Indonesia
+
+- name: Ankita Gupta
+  image: ankita.jpg
+  description: Engineering Lead at Honestbee
+
+- name: Sean Nguyen
+  image: sean.jpg
+  description: Software Engineer at Honestbee
