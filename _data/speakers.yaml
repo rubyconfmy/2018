@@ -41,6 +41,10 @@
   image: prasun.jpg
   description:  Ruby Science Foundation
 
+- name: Kinsey Ann Durham
+  image: kinsey.jpg
+  description: Engineer @digitalocean, co-founder @Kubmo, lead mentor @trybloc
+
 - name: Anton Davydov
   image: anton.jpg
   description:  Software Engineer at Hippo and Hanami Core Developer 
@@ -60,3 +64,16 @@
 - name: Sean Nguyen
   image: sean.jpg
   description: Software Engineer at Honestbee
+
+- name: Nadia Oduyano
+  image: nadia.jpg
+  description: Co-founder at <a href="https://www.codenewbie.org/" target="_blank">CodeNewbie</a>
+
+- name: Itoyanagi Sakura
+  image: itoyanagi.jpg
+  description: Space Pirates, LLC.
+
+- name: Melvin Ch'ng
+  image: melvin.jpg
+  description: eMason Solutions, Junior Software Developer
+
