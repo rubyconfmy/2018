@@ -26,8 +26,8 @@
   description: Senior Software Engineer, StackShare
   
 - name:  Brittany Martin
-  image: brittany-martin.jpg
-  description: Lead Web Dev @Cultural Trust | Co-Organizer &#58; Railsbridge + Alexabridge Pittsburgh | Ruby on Rails Podcast Co-Host
+  image: brittany_martin.png
+  description: Lead Web Developer at the <a href="http://trustarts.org/" target="_blank">Pittsburgh Cultural Trust</a>
 
 - name: Dilum BC
   image: dilum-bc.jpg
@@ -69,15 +69,19 @@
   image: sean.jpg
   description: Software Engineer at Honestbee
 
-- name: Nadia Oduyano
+- name: Nadia Odunayo
   image: nadia.jpg
   description: Co-founder at <a href="https://www.codenewbie.org/" target="_blank">CodeNewbie</a>
 
 - name: Itoyanagi Sakura
   image: itoyanagi.jpg
-  description: Space Pirates, LLC.
+  description: <a href="https://space-pirates.co.jp/" target="_blank">Space Pirates, LLC.</a>
 
 - name: Melvin Ch'ng
   image: melvin.jpg
-  description: eMason Solutions, Junior Software Developer
+  description: Junior Software Developer
+
+- name: Guilherme Mansur
+  image: guilherme.jpg
+  description: Software Developer at Shopify
 
