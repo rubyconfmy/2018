@@ -77,6 +77,10 @@
   image: itoyanagi.jpg
   description: <a href="https://space-pirates.co.jp/" target="_blank">Space Pirates, LLC.</a>
 
+- name: Enrique Mogollan
+  image: enrique.jpg
+  description: Software Engineer @ Salesforce
+
 - name: Melvin Ch'ng
   image: melvin.jpg
   description: Junior Software Developer
