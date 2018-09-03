@@ -15,6 +15,6 @@
 
 - name: Normal
   price: 300
-  url: 
-  status: coming-soon
-  valid: coming soon
+  url: 'http://tickets.rubyconf.my/'
+  status: available
+  valid: on sale
