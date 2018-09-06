@@ -1,7 +1,7 @@
 {
 	"mapZoom": 17,
 	"offsetX": 200,
-	"offsetY": 300,
+	"offsetY": 50,
   "markerLatLng": [
     3.156886, 101.70954269999993
 	]
