@@ -12,9 +12,12 @@
             {% for speaker in site.data.speakers %}
               {% assign delay = 0.2 | times: forloop.index | plus: 0.3 %}
               <div class="col-md-3 col-sm-3 wow animated fadeInUp speaker" data-wow-duration="1s" data-wow-delay="{{ delay }}s">
-                <div class="overlay-effect effects clearfix">
+                <div class="overlay-effect effects clearfix bio">
                   <div class="img">
                     <img src="/assets/img/speakers/{{ speaker.image }}" alt="Portfolio Item" width="370" height="255">
+                  </div>
+                  <div class="overlay">
+                    <div class="bio-text">{{ speaker.bio }}</div>
                   </div>
                 </div>
                 <h2>{{ speaker.name }}</h2>

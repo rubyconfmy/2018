@@ -2920,11 +2920,6 @@ ul.planContainer li.title {
 
 
 .effects .img {
-
-  position: relative;
-
-  margin-bottom: 25px;
-
   position: relative;
 
   z-index: 1;
@@ -2934,11 +2929,11 @@ ul.planContainer li.title {
 }
 
 
-.effects .img:nth-child(n) {
+/* .effects .img:nth-child(n) {
 
   margin-right: 5px;
 
-}
+} */
 
 
 .effects .img:first-child {
@@ -4092,4 +4087,33 @@ ul.footer-links li:last-child::after {
 
 .text-white {
   color: #fff !important;
+}
+
+.bio{
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #62709a;
+  cursor: pointer;
+}
+
+.bio:hover .overlay {
+  opacity: .8;
+}
+
+.bio-text {
+  color: white;
+  font-size: 14px;
+  padding: 30px 20px;
+  text-align: justify;
 }

@@ -4,99 +4,124 @@
 - name:  Ajey Gore
   image: ajey-gore.jpg
   description: Keynote Speaker <br /> Group CTO of Go-Jek
+  bio: TBA
 
 - name:  Konstantin Haase
   image: haase.jpg
   description: Keynote Speaker <br /> CEO of Travis CI
+  bio: TBA
 
 - name: Aaron Patterson
   image: aaron-patterson.jpg
   description: Keynote Speaker <br /> Github
+  bio: Ruby & Rails core team member. Aaron's the most @tenderlove-ing person you'll ever meet. He works at Github.
 
 - name: Avdi Grimm
   image: avdi-grim.jpg
-  description: Head Chef at <a href="https://www.rubytapas.com/" target="_blank">Ruby Tapas</a>, <br />Author of the books Confident Ruby and Exceptional Ruby
+  description: Head Chef at <a href="https://www.rubytapas.com/" target="_blank">Ruby Tapas</a>, <br />Author of the books Confident Ruby and Exceptional Ruby.
+  bio: TBA
 
 - name:  Hiroshi Shibata
   image: hiroshi.jpg
   description: Member of Ruby Core Team, Maintainer of RubyGems, Administrator of <a href="https://www.ruby-lang.org/en/" target="_blank">ruby-lang.org</a>
+  bio: A member of Ruby core team. He maintain RubyGems, Rake, rdoc, psych, ruby-build and other critical library of the Ruby language. and He is an administrator of ruby-lang.org and supports to develop the environment of the Ruby language.
 
 - name:  Michael Kelly
   image: michael-kelly.jpg
   description: Senior Software Engineer, StackShare
+  bio: Michael Kelly is passionate about two things, Ruby APIs and building motorcycles. He’s been building with Rails in and around the startup world for more than eight years and has been focused on GraphQL as a technology for the last two. He tweets a little and is generally just a bad monkey.
   
 - name:  Brittany Martin
   image: brittany_martin.png
   description: Lead Web Developer at the <a href="http://trustarts.org/" target="_blank">Pittsburgh Cultural Trust</a>
+  bio: TBA
 
 - name: Dilum BC
   image: dilum-bc.jpg
   description: Kaligo
+  bio: Core Team member of Celluloid Working of Blockchain technologies + Ruby
 
 - name: Allison McMillan
   image: allison-millan.jpg
   description: Github
+  bio: She's worn many hats including startup founder, community builder, software developer, and Managing Director of a national non-profit. Allison started programming at a Rail Girls workshop and is now a chapter organizer. Allison also recently started a podcast about being a parent in tech, Parent Driven Development.  
 
 - name: Noah Gibbs
   image: noah-gibbs.png
   description: AppFolio
+  bio: TBA
 
 - name: Prasun Anand
   image: prasun.jpg
   description:  Ruby Science Foundation
+  bio: Prasun is involved with different open-source projects aimed at super fast Scientific Computing on Ruby and D. He is the creator of ArrayFire and RbCUDA gems. He worked with SciRuby as a GSoC student in 2016, 2017 and a Ruby Grant recepient. Currently he is working with Genenetwork and Modak Analytics on building software for high performance genome analysis.
 
 - name: Kinsey Ann Durham
   image: kinsey.jpg
   description: Engineer @digitalocean, co-founder @Kubmo, lead mentor @trybloc
+  bio: TBA
 
 - name: Anton Davydov
   image: anton.jpg
-  description:  Software Engineer at Hippo and Hanami Core Developer 
+  description:  Software Engineer at Hippo and Hanami Core Developer
+  bio: I'm Hanami core developer and an indie developer from Moscow. I work on different open source projects and builds Space-Rocket ships at night.
 
 - name: Ted Johansson
   image: ted.jpg
   description: VP Engineering, EngageRocket
+  bio: Core Rubocop committer
 
 - name: Iqbal Farabi
   image: farabi.jpg
   description: System Engineer at Go-Jek Indonesia
+  bio: Before joining Go-Jek, I was a Ruby developer with specialties in building enterprise-grade applications. I was involved in making curriculum for and teaching Ruby classes on pro bono basis for several community events in Jakarta. Now I am a system engineer at Go-Jek Indonesia and part of the council that manage Go Academy program at Go-Jek.
 
 - name: Ankita Gupta
   image: ankita.jpg
   description: Engineering Lead at Honestbee
+  bio: Ankita is a software engineer working on honestbee's logistics systems based out of the Singapore office. She has worked as a full-stack engineer and in the recent years has harboured an interest for distributed systems architecture.
 
 - name: Sean Nguyen
   image: sean.jpg
   description: Software Engineer at Honestbee
+  bio: TBA
 
 - name: Nadia Odunayo
   image: nadia.jpg
   description: CTO at <a href="https://www.codenewbie.org/" target="_blank">CodeNewbie</a>
+  bio: TBA
 
 - name: Itoyanagi Sakura
   image: itoyanagi.jpg
   description: <a href="https://space-pirates.co.jp/" target="_blank">Space Pirates, LLC.</a>
+  bio: I'm the RDoc maintainer, Ruby core tools contributor.
 
 - name: Enrique Mogollan
   image: enrique.jpg
   description: Software Engineer @ Salesforce
+  bio: Enrique has been passionate about writing code since high school. His experience as software engineer ranges from backend and web applications to integrations and open source projects. He is a big fan of pair programming and believes that collaborative environments are the key to promote quality code and improve software design. 
 
 - name: Melvin Ch'ng
   image: melvin.jpg
   description: Junior Software Developer
+  bio: A Computer Engineer graduate who is a self taught Ruby on Rails developer. He uses Rails for IoT. He introduced Rails to university students and assisted them on getting started while he was working for professors. He wrote a pretty complete Web Development Tutorial, back in University, that allow everyone to get started on Rails and Web Development. 
 
 - name: Guilherme Mansur
   image: guilherme.jpg
   description: Software Developer at Shopify
+  bio: I'm a software developer at shopify. At work I help deliver our machine learning solutions to empower our merchants, at home I cheer for A.S Roma to win the champions league.
 
 - name: Jean F. Queralt
   image: jean-queralt.jpg
   description: The IO Foundation - Founder & Manager
+  bio: Born in Spain and with a full carreer in IT,  he took the leap of founding The IO Foundation and believes that it will take no time that we, ourselves, become digital citizens; if we are not yet already. TIOF aims to work with pertinent regional and international agencies in crafting and implementing a Universal Declaration of Digital Rights which aims to be grounded from the Universal Declaration of Human Rights. 
 
 - name: Azuan
   image: azuan.jpg
   description: Fave, Engineering Lead
+  bio: I believe Rails can scale.
 
 - name: Gooi Liang Zheng
   image: gooi.jpg
   description: Co-founder of Pconnex, Co-organizer of RubyMalaysia Meetup
+  bio: Tech Community Advocate, Agile Practitioner, Rubyist
