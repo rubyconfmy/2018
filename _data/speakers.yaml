@@ -16,11 +16,6 @@
   description: Keynote Speaker <br /> Github
   bio: Ruby & Rails core team member. Aaron's the most @tenderlove-ing person you'll ever meet. He works at Github.
 
-- name: Avdi Grimm
-  image: avdi-grim.jpg
-  description: Head Chef at <a href="https://www.rubytapas.com/" target="_blank">Ruby Tapas</a>, <br />Author of the books Confident Ruby and Exceptional Ruby.
-  bio: TBA
-
 - name:  Hiroshi Shibata
   image: hiroshi.jpg
   description: Member of Ruby Core Team, Maintainer of RubyGems, Administrator of <a href="https://www.ruby-lang.org/en/" target="_blank">ruby-lang.org</a>
