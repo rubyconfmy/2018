@@ -4117,3 +4117,8 @@ ul.footer-links li:last-child::after {
   padding: 30px 20px;
   text-align: justify;
 }
+
+.mx-10px {
+  margin-left: 10px;
+  margin-right: 10px;
+}
