@@ -4122,3 +4122,7 @@ ul.footer-links li:last-child::after {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+.mb-40px {
+  margin-bottom: 40px;
+}
