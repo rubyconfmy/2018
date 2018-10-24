@@ -18,3 +18,9 @@
   url: 'http://tickets.rubyconf.my/'
   status: available
   valid: on sale
+
+- name: Walk-In
+  price: 350
+  url: 'http://tickets.rubyconf.my/'
+  status: coming-soon
+  valid: Open on 25th Oct 6am
