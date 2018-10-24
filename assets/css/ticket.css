@@ -14,10 +14,10 @@ section.tickets .ticket {
   background: #212739;
   display: flex;
   flex-direction: column;
-  height: 100%;
   justify-content: space-between;
   margin-bottom: 1rem;
   padding: 1rem;
+  min-height: 380px;
 }
 
 section.tickets .ticket > h1 {
