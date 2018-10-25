@@ -16,7 +16,7 @@
 - name: Normal
   price: 300
   url: 'http://tickets.rubyconf.my/'
-  status: available
+  status: sold-out
   valid: on sale
 
 - name: Walk-In
