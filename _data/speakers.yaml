@@ -25,11 +25,6 @@
   image: hiroshi.jpg
   description: Member of Ruby Core Team, Maintainer of RubyGems, Administrator of <a href="https://www.ruby-lang.org/en/" target="_blank">ruby-lang.org</a>
   bio: A member of Ruby core team. He maintain RubyGems, Rake, rdoc, psych, ruby-build and other critical library of the Ruby language. and He is an administrator of ruby-lang.org and supports to develop the environment of the Ruby language.
-
-- name:  Michael Kelly
-  image: michael-kelly.jpg
-  description: Senior Software Engineer, StackShare
-  bio: Michael Kelly is passionate about two things, Ruby APIs and building motorcycles. He’s been building with Rails in and around the startup world for more than eight years and has been focused on GraphQL as a technology for the last two. He tweets a little and is generally just a bad monkey.
   
 - name:  Brittany Martin
   image: brittany_martin.png
